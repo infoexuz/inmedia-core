@@ -1,4 +1,4 @@
-<img width="116" height="55" alt="image" src="https://github.com/user-attachments/assets/580ab3fe-eec3-4c44-bd6c-9b294c1c5a6a" /># inMedia Core
+# inMedia Core
 
 A console program in C++ that runs the core logic of **inMedia**, a media platform where studios and creators from Central Asia publish films, series, podcasts and lessons.
 
