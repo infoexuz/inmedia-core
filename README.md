@@ -1,4 +1,4 @@
-# inMedia Core
+<img width="116" height="55" alt="image" src="https://github.com/user-attachments/assets/580ab3fe-eec3-4c44-bd6c-9b294c1c5a6a" /># inMedia Core
 
 A console program in C++ that runs the core logic of **inMedia**, a media platform where studios and creators from Central Asia publish films, series, podcasts and lessons.
 
@@ -6,8 +6,8 @@ Final group project, Computer Programming (4-CPR-10-386), Central Asian Universi
 
 | Member | Student ID | Role |
 | --- | --- | --- |
-| Muhammadamin Nazarov | [ID] | Part A: menu, text checks, search, tests, project setup |
-| Feruz Alidjanov | [ID] | Part B: upload planner, catalog files, log-in protection |
+| Muhammadamin Nazarov | [260216] | Part A: menu, text checks, search, tests, project setup |
+| Feruz Alidjanov | [260079] | Part B: upload planner, catalog files, log-in protection |
 
 See [docs/TASKS.md](docs/TASKS.md) for the exact split.
 
