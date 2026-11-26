@@ -1,0 +1,4 @@
+# email|password hash (simpleHash)|name
+# Demo passwords: demo@inmedia.uz -> demo12345, studio@inmedia.uz -> studio2026
+demo@inmedia.uz|377c55875bd2349|Demo Creator
+studio@inmedia.uz|7272fd0dd788d387|Silk Road Studio

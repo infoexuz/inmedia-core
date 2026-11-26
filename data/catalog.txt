@@ -1,0 +1,17 @@
+# id|type|title|channel|seconds
+1|movie|Silk Road|Silk Road Studio|5400
+2|movie|Tashkent Nights|Silk Road Studio|4920
+3|movie|Old Bukhara|Silk Road Studio|3600
+4|movie|The Last Caravan|Silk Road Studio|6300
+5|episode|Tales of Samarkand. Episode 1|Silk Road Studio|2580
+6|movie|The Steppe|Steppe Films|5100
+7|movie|White City|Steppe Films|4500
+8|movie|Pamir Mountains|Steppe Films|3900
+9|movie|Issyk-Kul|Steppe Films|4200
+10|podcast|Business in Central Asia|Voices of the East|2700
+11|podcast|Tech Uz|Voices of the East|1980
+12|podcast|Voices of the East|Voices of the East|2400
+13|lesson|Video Editing Basics|inMedia Academy|1260
+14|lesson|Mobile Filmmaking|inMedia Academy|1080
+15|lesson|English for IT|inMedia Academy|1500
+16|lesson|Python from Scratch|inMedia Academy|1800
