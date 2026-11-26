@@ -1,0 +1,6 @@
+inmedia-core
+run_tests
+*.exe
+*.o
+test_catalog.txt
+.DS_Store
